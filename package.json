@@ -1,0 +1,9 @@
+{
+  "name": "calesita-ai",
+  "version": "1.0.0",
+  "description": "Calesita.ai - Conectando familias mediante IA",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
